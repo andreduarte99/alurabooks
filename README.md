@@ -6,7 +6,7 @@ Projeto em HTML e CSS do Alurabooks. Desafio da formação dde HTML e CSS: respo
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabooks**
 | :label: Tecnologias | HTML e CSS.
-| :rocket: URL         | https://andreduarte99.github.io/WaveCast
+| :rocket: URL         | https://andreduarte99.github.io/alurabooks/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-responsividade-mobile-first
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
